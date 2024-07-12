@@ -1,0 +1,7 @@
+.invert{
+    filter: invert(0.6);
+}
+
+.logoinvert{
+    filter: invert(1);
+}
